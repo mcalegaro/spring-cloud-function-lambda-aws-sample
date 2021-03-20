@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringCloudFunctionTestApplication<spring-cloud-function-test>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.springcloudfunctiontest.SpringCloudFunctionTestApplication",
+            "projectName": "spring-cloud-function-test",
+            "args": ""
+        }
+    ]
+}
